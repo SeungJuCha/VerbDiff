@@ -4,7 +4,7 @@ SeungJu Cha, [Kwanyoung Lee](https://github.com/mobled37), Ye-Chan Kim,
 Hyunwoo Oh, Dong-Jin Kim*
 
 [paper]()
-[arXiv]()
+[arXiv](https://arxiv.org/abs/2503.16406)
 
 ![Teaser figure](figure/pipeline.jpg)
 
